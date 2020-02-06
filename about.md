@@ -13,7 +13,7 @@ I will introduce two concepts from Programming Class Struggle, the Hahnel criter
 
 Transformative demands are "those that would require a very directional break from capitalism".  An example being "full and comprehensible transparency in all governmental, commercial, and other related affairs (not just the abolition of "business secrets")".  Maximalist demands would be those that would necessitate a full break from capitalism and fully change the relations of production towards a socialist economy.  
 
-This is only a small overview of the dynamic method enumerated in Programming Class Struggle, and a skimming of the work may help you to further understand it.  These articles are meant to generate discussion and should not be taken as a static approach to generating a program.  
+This is only a small overview of the dynamic method enumerated in Programming Class Struggle, and a skimming of the work may help you to further understand it.  These articles are meant to generate discussion and introduce a method of generating a program and should not be taken as a static set of policies to be supported at any given time.  
 
 ### Recommended reading:
 
