@@ -1,5 +1,3 @@
-# The Four Day Work Week
-
 The shortening of the work week has long been common goal between labor activists and socialists.  In the beginnings of industrial capitalism workers often worked 10 to 16 hours a day, 6 days a week.  Most people in the early 1800's were working 80 to 100 hours a week.  Later on in 1886 the struggles for an 8 hour workday led to the Haymarket Riot where 12 people were killed by a bomb during the strike.  It wasn't until 1938 when Congress passed the Fair Labor Standards Act which set full time employment to 44 hours a week requiring overtime pay for all hours worked beyond that.  Two years later in 1940 this was reduced to 40 hours leading to the situation we are in now, 80 years later.  
 
 With the decline of the labor movement beginning in the latter half of the 20th century and the cold war period pushing socialist parties to the fringes, the struggle for a shorter work week has been put on the back burner.  With the revival of these movements growing stronger today, I will argue that the four day work week should be an immediate demand of a socialist party in the United States and elsewhere in the world.  
