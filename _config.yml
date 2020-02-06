@@ -5,7 +5,7 @@ author:
   email: "abatjm@protonmail.com"
   url: "https://extraterrestrialworld.github.io"
 
-baseurl: https://extraterrestrialworld.github.io/
+baseurl: 
 
 source: .
 destination: ./_site
