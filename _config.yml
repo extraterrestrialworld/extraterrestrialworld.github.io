@@ -3,9 +3,9 @@ description: "What's a Socialist To Do?"
 author:
   name: "Windy"
   email: "abatjm@protonmail.com"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  url: "https://extraterrestrialworld.github.io"
 
-baseurl: /
+baseurl: https://extraterrestrialworld.github.io/
 
 source: .
 destination: ./_site
